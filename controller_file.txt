@@ -1,0 +1,17 @@
+autofill
+onlineschool
+paf
+cmplace
+ldqre
+coursemarketplace
+cpbdemo
+sbp
+lmsdemo
+schedulerdemo
+cspdemo
+scheduler
+cspdev
+mojoelumine
+#demoquoteup
+#cpbdemo-new
+#democpb
